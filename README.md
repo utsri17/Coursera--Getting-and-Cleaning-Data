@@ -1,5 +1,5 @@
 # Coursera-Getting-and-Cleaning-Data
-This is a gt repository for a coursera Project 
+This is a git repository for a coursera Project 
 
 The goal is to prepare tidy data that can be used for later analysis.  
 
